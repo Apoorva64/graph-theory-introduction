@@ -133,7 +133,7 @@ Graphs are commonly represented in three ways:
    nodes, the value of the cell is `0`.
 
    |       | A | B | C | D |
-            |-------|---|---|---|---|
+   |-------|---|---|---|---|
    | **A** | 0 | 1 | 1 | 1 |
    | **B** | 0 | 0 | 1 | 1 |
    | **C** | 0 | 0 | 0 | 1 |
